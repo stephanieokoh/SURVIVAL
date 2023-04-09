@@ -1,0 +1,18 @@
+body{
+  width: 100%;
+  height: 100%;
+}
+
+.form-group{
+  margin-left: -1000px;
+}
+
+.bt1{
+  border-radius: 100px;
+  background-color: aqua;
+  color: aqua;
+}
+
+.img{
+  border-radius: 100px;
+}
